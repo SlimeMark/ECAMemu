@@ -1,6 +1,8 @@
 #include <iostream>
 #include <Motor_faultHandler.h>
 #include <thread>
+#include <vector>
+#include <algorithm>
 
 
 
